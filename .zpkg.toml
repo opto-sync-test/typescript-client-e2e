@@ -14,4 +14,4 @@ url = "https://github.com/opto-sync-test/typescript-client-e2e"
 dir = ".vendor/.zed"
 
 [dependencies]
-"opto-sync/opto-sync-clients" = "^0.1.0"
+"opto-sync/opto-sync-clients" = "^0.4.0"
